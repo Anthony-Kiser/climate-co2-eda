@@ -39,7 +39,6 @@ These questions are laid out as headings inside `co2_analysis.ipynb` and can be 
 │   └── owid-co2-data.csv      # Raw dataset (~15 MB, 60k rows)
 ├── figures/                   # Auto‑saved plots & images
 ├── co2_analysis.ipynb         # Main notebook (you’re here)
-├── environment.yml            # Conda spec (alternative to requirements.txt)
 ├── requirements.txt           # Python package list
 └── README.md                  # Project documentation (this file)
 ```
